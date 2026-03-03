@@ -1,0 +1,9 @@
+{
+  "/(main)/explore/page": "app/(main)/explore/page.js",
+  "/(main)/home/page": "app/(main)/home/page.js",
+  "/(main)/orders/page": "app/(main)/orders/page.js",
+  "/(main)/product/[id]/page": "app/(main)/product/[id]/page.js",
+  "/(main)/profile/page": "app/(main)/profile/page.js",
+  "/(main)/wishlist/page": "app/(main)/wishlist/page.js",
+  "/feed/page": "app/feed/page.js"
+}
