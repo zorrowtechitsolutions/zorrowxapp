@@ -1,0 +1,43 @@
+[00:00:01.696] Server  LOG     ✓ Ready in 1169ms
+[00:00:07.376] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:08.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:43.540] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /feed. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:23:49.360] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:26:27.157] Server  LOG     ✓ Compiled in 629ms
+[00:28:33.406] Server  LOG     ✓ Compiled in 228ms
+[00:30:03.590] Server  LOG     ✓ Compiled in 146ms
+[00:30:13.846] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /explore. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:13.911] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /explore. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:16.816] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /wishlist. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:18.262] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /explore. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:19.385] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:37.564] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /product/[id]. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:53.361] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /explore. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:30:56.198] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:08.847] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:09.875] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:16.230] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /profile. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:21.247] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /orders. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:27.481] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /home. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:40.114] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /feed. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:36:33.054] Server  LOG     ✓ Compiled in 256ms
+[00:36:43.876] Server  WARN    ⚠ Unsupported metadata viewport is configured in metadata export in /feed. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:36:44.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
